@@ -55,7 +55,7 @@
 }
 
 .card__side--back {
-	background-image: url('images/bg-card.jpg');
+	background-image: url('../images/bg-card.jpg');
 	background-position: top center;
 	background-size: cover;
 	transform: rotateY( 180deg );
